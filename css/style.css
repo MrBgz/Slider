@@ -12,7 +12,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #fad6a5;
+  background: #eae3d2;
 }
 .cont {
   max-width: 1440px;
@@ -24,7 +24,7 @@ body {
   overflow: hidden;
 }
 .card {
-  background-color: #fad6a5;
+  background-color: #607eaa;
   border-radius: 25px;
 }
 
@@ -55,12 +55,12 @@ body {
   border-radius: 50%;
 }
 .profile-details .reminder {
-  color: #fff;
+  color: #eee3cb;
   font-size: 15px;
   font-weight: 500;
 }
 .profile-details .message {
-  color: #fff;
+  color: #eee3cb;
   font-size: 12px;
   font-weight: 500;
 }
@@ -68,7 +68,7 @@ body {
 a {
   position: relative;
   text-decoration: none;
-  color: #fff;
+  color: #aebdca;
   font-size: 18px;
   letter-spacing: 0.5px;
   padding: 0 10px;
@@ -90,10 +90,10 @@ a:hover:after {
 }
 
 .swiper-navBtn {
-  color: #7b8fa1;
+  color: #eae3d2;
   height: 40px;
   width: 40px;
-  background: #fff;
+  background: #1c3879;
   border-radius: 50%;
 }
 .swiper-navBtn::before,
@@ -102,7 +102,7 @@ a:hover:after {
 }
 
 .swiper-pagination-bullet {
-  background-color: #fff;
+  background-color: #1c3879;
 }
 
 @media screen and (max-width: 768px) {
