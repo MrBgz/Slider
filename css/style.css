@@ -49,23 +49,23 @@ body {
   border-radius: 25px 25px 0 0;
 }
 
-.card .profile-details {
+.card .card-details {
   display: flex;
   align-items: center;
   column-gap: 12px;
   padding: 15px;
 }
-.card .profile-details img {
+.card .card-details img {
   height: 40px;
   width: 40px;
   border-radius: 50%;
 }
-.profile-details .reminder {
+.card-details .reminder {
   color: #eee3cb;
   font-size: 15px;
   font-weight: 500;
 }
-.profile-details .message {
+.card-details .message {
   color: #eee3cb;
   font-size: 12px;
   font-weight: 500;
